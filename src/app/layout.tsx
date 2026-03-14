@@ -13,6 +13,9 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  verification: {
+    google: "R-1BzYa6wIUEaRCk-lR9kTLvBNcjp7n9juc8lI_wLn4",
+  },
   title: {
     default: `${SITE_NAME} - ${SITE_TAGLINE}`,
     template: `%s | ${SITE_NAME}`,
