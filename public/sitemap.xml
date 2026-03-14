@@ -37,6 +37,12 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://automatenova.com/category/social-media/</loc>
+    <lastmod>2026-03-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://automatenova.com/category/business-tools/</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,6 +97,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://automatenova.com/blog/ai-tools-automate-social-media-content/</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://automatenova.com/blog/ai-workflow-automation-zapier-make/</loc>
     <lastmod>2026-02-20</lastmod>
     <changefreq>monthly</changefreq>
@@ -139,6 +151,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://automatenova.com/blog/best-data-entry-automation-tools-small-business/</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://automatenova.com/blog/best-workflow-automation-tools-startups/</loc>
     <lastmod>2026-03-13</lastmod>
     <changefreq>monthly</changefreq>
@@ -159,6 +177,12 @@
   <url>
     <loc>https://automatenova.com/blog/how-to-automate-email-marketing-with-ai/</loc>
     <lastmod>2026-03-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://automatenova.com/blog/how-to-automate-repetitive-business-tasks/</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
