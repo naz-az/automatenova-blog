@@ -180,4 +180,4 @@ For a deeper look at the tools powering these income streams, read our guide on 
 
 The difference between people who earn passive income and people who just read about it is execution. Pick one idea from this list. Spend this weekend setting it up. You do not need it to be perfect. You need it to be live.
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

@@ -202,4 +202,4 @@ A well-built automated cold outreach lead generation setup can generate 10 to 30
 
 ---
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

@@ -163,4 +163,4 @@ LinkedIn lead generation automation is one of the highest-ROI activities for B2B
 
 ---
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

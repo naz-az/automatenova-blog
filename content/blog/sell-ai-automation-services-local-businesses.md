@@ -176,4 +176,4 @@ The window of opportunity is wide open. Most local businesses know they need aut
 
 Pick one type of business. Build one killer demo. Walk into five businesses this week. The first yes is the hardest. After that, momentum takes over.
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

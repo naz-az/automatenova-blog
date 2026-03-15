@@ -223,4 +223,4 @@ Start with a simple setup: 50 prospects, one AI-written email template with basi
 
 ---
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

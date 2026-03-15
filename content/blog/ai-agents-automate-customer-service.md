@@ -215,4 +215,4 @@ The businesses that win on customer experience in 2026 are the ones that combine
 
 You do not need to automate everything on day one. Pick your top five most common support questions, automate those, and expand from there.
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

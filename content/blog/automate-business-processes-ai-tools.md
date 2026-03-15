@@ -210,4 +210,4 @@ The businesses that thrive in 2026 are not the ones with the biggest teams. They
 
 Start today. Pick one process. Automate it. Measure the results. Then do the next one.
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

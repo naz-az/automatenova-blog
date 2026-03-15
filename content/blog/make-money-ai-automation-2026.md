@@ -147,4 +147,4 @@ The **how to make money with AI automation** question has a simple answer: pick 
 
 ---
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.

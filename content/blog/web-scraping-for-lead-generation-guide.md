@@ -294,4 +294,4 @@ Within a week, you can have a working prototype that generates more leads than y
 
 ---
 
-Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/automatenova) to build your custom automation system.
+Need help setting this up? [Hire me on Fiverr](https://www.fiverr.com/s/wkYWQVB) to build your custom automation system.
