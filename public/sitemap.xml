@@ -37,13 +37,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://automatenova.com/category/social-media/</loc>
+    <loc>https://automatenova.com/category/business-tools/</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://automatenova.com/category/business-tools/</loc>
+    <loc>https://automatenova.com/category/social-media/</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -93,6 +93,12 @@
   <url>
     <loc>https://automatenova.com/blog/ai-email-writing-automation-setup/</loc>
     <lastmod>2026-03-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://automatenova.com/blog/ai-tools-appointment-scheduling-automation/</loc>
+    <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
